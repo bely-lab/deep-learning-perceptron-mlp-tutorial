@@ -40,7 +40,7 @@ The notebook was completed as part of my learning during the **Deep Learning IND
 
 ## Learning Context
 
-This work was completed while participating in the **Deep Learning INDABA** coordinated by many african universities.
+This work was completed while participating in the **Deep Learning INDABA** coordinated by different universities.
 The tutorial structure and exercises were part of the educational material provided during the program.
 
 This repository serves as documentation of the concepts I practiced and implemented during the session.
