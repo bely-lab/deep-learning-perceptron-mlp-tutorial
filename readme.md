@@ -4,8 +4,6 @@ This repository contains a Jupyter/Google Colab notebook implementing fundamenta
 
 The notebook was completed as part of my learning during the **Deep Learning Indaba** program, where tutorials and sessions were provided to introduce participants to practical deep learning workflows.
 
----
-
 ## Table of Contents
 
 1. Perceptron
@@ -19,7 +17,6 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 9. Visualize Training History
 10. Generate Predictions
 
----
 
 ## Technologies Used
 
@@ -29,7 +26,6 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 * Matplotlib
 * Jupyter Notebook / Google Colab
 
----
 
 ##  What This Tutorial Demonstrates
 
@@ -41,7 +37,6 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 * Visualizing model training performance
 * Generating predictions from trained models
 
----
 
 ## Learning Context
 
@@ -50,7 +45,6 @@ The tutorial structure and exercises were part of the educational material provi
 
 This repository serves as documentation of the concepts I practiced and implemented during the session.
 
----
 
 ## Purpose of This Repository
 
@@ -58,7 +52,6 @@ This repository serves as documentation of the concepts I practiced and implemen
 * Gain familiarity with Keras workflows
 * Document hands-on deep learning learning exercises
 
----
 
 ## License
 
