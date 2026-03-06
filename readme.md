@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter/Google Colab notebook implementing fundamental neural network models, including the **Perceptron** and **Multilayer Perceptron (MLP)** using Keras.
 
-The notebook was completed as part of my learning during the **Deep Learning Indaba** program, where tutorials and sessions were provided to introduce participants to practical deep learning workflows.
+The notebook was completed as part of my learning during the **Deep Learning INDABA** event, where tutorials and sessions were provided to introduce participants to practical deep learning workflows.
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 
 ## Learning Context
 
-This work was completed while participating in the **Deep Learning Indaba** learning program.
+This work was completed while participating in the **Deep Learning INDABA** coordinated by many african universities.
 The tutorial structure and exercises were part of the educational material provided during the program.
 
 This repository serves as documentation of the concepts I practiced and implemented during the session.
