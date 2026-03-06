@@ -6,7 +6,7 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. Perceptron
 2. Multilayer Neural Networks (MLP)
@@ -21,7 +21,7 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * TensorFlow / Keras
@@ -31,7 +31,7 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 
 ---
 
-## 📊 What This Tutorial Demonstrates
+##  What This Tutorial Demonstrates
 
 * Basic implementation of a **Perceptron**
 * Building and training a **Multilayer Neural Network**
