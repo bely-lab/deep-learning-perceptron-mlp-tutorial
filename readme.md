@@ -43,7 +43,7 @@ The notebook was completed as part of my learning during the **Deep Learning Ind
 
 ---
 
-## 🎓 Learning Context
+## Learning Context
 
 This work was completed while participating in the **Deep Learning Indaba** learning program.
 The tutorial structure and exercises were part of the educational material provided during the program.
@@ -52,7 +52,7 @@ This repository serves as documentation of the concepts I practiced and implemen
 
 ---
 
-## 📌 Purpose of This Repository
+## Purpose of This Repository
 
 * Practice core neural network concepts
 * Gain familiarity with Keras workflows
@@ -60,6 +60,6 @@ This repository serves as documentation of the concepts I practiced and implemen
 
 ---
 
-## 📜 License
+## License
 
 This repository is shared for educational and learning purposes.
